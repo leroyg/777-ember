@@ -1,0 +1,8 @@
+<h1>Photos</h1>
+{{#each photo in model}}
+  <div class="col-xs-6">
+    {{#link-to "photo" photo}}
+      <img {{bind-attr src=photo.large_photo_url}} class="img-responsive" />
+    {{/link-to}}
+  </div>
+{{/each}}
