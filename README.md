@@ -1,7 +1,8 @@
 # Seven-seven-seven-ember
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+deployed to: http://seven-seven-seven-ember.surge.sh/  
+deployed with: http://surge.sh/
 
 ## Prerequisites
 
